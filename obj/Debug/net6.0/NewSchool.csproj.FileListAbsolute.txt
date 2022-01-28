@@ -1,0 +1,15 @@
+/home/beibarsov/csharp/NewSchool/bin/Debug/net6.0/NewSchool
+/home/beibarsov/csharp/NewSchool/bin/Debug/net6.0/NewSchool.deps.json
+/home/beibarsov/csharp/NewSchool/bin/Debug/net6.0/NewSchool.runtimeconfig.json
+/home/beibarsov/csharp/NewSchool/bin/Debug/net6.0/NewSchool.dll
+/home/beibarsov/csharp/NewSchool/bin/Debug/net6.0/ref/NewSchool.dll
+/home/beibarsov/csharp/NewSchool/bin/Debug/net6.0/NewSchool.pdb
+/home/beibarsov/csharp/NewSchool/obj/Debug/net6.0/NewSchool.csproj.AssemblyReference.cache
+/home/beibarsov/csharp/NewSchool/obj/Debug/net6.0/NewSchool.GeneratedMSBuildEditorConfig.editorconfig
+/home/beibarsov/csharp/NewSchool/obj/Debug/net6.0/NewSchool.AssemblyInfoInputs.cache
+/home/beibarsov/csharp/NewSchool/obj/Debug/net6.0/NewSchool.AssemblyInfo.cs
+/home/beibarsov/csharp/NewSchool/obj/Debug/net6.0/NewSchool.csproj.CoreCompileInputs.cache
+/home/beibarsov/csharp/NewSchool/obj/Debug/net6.0/NewSchool.dll
+/home/beibarsov/csharp/NewSchool/obj/Debug/net6.0/ref/NewSchool.dll
+/home/beibarsov/csharp/NewSchool/obj/Debug/net6.0/NewSchool.pdb
+/home/beibarsov/csharp/NewSchool/obj/Debug/net6.0/NewSchool.genruntimeconfig.cache
